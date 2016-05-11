@@ -1,0 +1,19 @@
+PODS:
+  - AFNetworking/NSURLConnection (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.1)
+  - AFNetworking/Security (2.5.1)
+  - AFNetworking/Serialization (2.5.1)
+  - AFOAuth2Manager (2.2.0):
+    - AFNetworking/NSURLConnection (~> 2.2)
+
+DEPENDENCIES:
+  - AFOAuth2Manager (= 2.2.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 10e85a00bb0f475124e4ff2677bf15693b2c1523
+  AFOAuth2Manager: 952eb62e8fd8022971e64c6e8fe28b9e999224af
+
+COCOAPODS: 0.39.0

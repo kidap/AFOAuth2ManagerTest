@@ -1,0 +1,10 @@
+# xcode
+*.swp
+*~.nib
+build/
+*.pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata
+.DS_Store
+Pods/
